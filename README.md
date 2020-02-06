@@ -1,2 +1,12 @@
-# whatsapp_plugin
-Código do plugin do Whatsapp para ser adicionado nos sites
+______       _                    _         _    _ _           _                         
+| ___ \     | |                  | |       | |  | | |         | |                        
+| |_/ / ___ | |_ __ _  ___     __| | ___   | |  | | |__   __ _| |_ ___  __ _ _ __  _ __  
+| ___ \/ _ \| __/ _` |/ _ \   / _` |/ _ \  | |/\| | '_ \ / _` | __/ __|/ _` | '_ \| '_ \ 
+| |_/ / (_) | || (_| | (_) | | (_| | (_) | \  /\  / | | | (_| | |_\__ \ (_| | |_) | |_) |
+\____/ \___/ \__\__,_|\___/   \__,_|\___/   \/  \/|_| |_|\__,_|\__|___/\__,_| .__/| .__/ 
+                                                                            | |   | |    
+                                                                            |_|   |_|    
+                                                                            
+
+Código para adicionar o botão do Whatsapp em websites usando HTML, CSS e JS sem dependências.
+
